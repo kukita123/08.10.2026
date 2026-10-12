@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            #region 9a
             #region Uprazhnenie
             //Console.WriteLine("Calculating first rectangle:");
             //Console.Write("Enter a = ");
@@ -82,6 +83,7 @@
 
             #region zadacha6
 
+            #endregion
             #endregion
         }
     }
